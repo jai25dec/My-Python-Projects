@@ -4,7 +4,7 @@
 Analyze Netflix dataset to understand content distribution and trends.
 
 ## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Numpy, Matplotlib, Seaborn)
 
 ## Dataset
 Dataset contains 8K+ movies and TV shows.
