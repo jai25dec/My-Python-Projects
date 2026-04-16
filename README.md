@@ -1,54 +1,61 @@
-# 📊 Data Analyst Portfolio – Jai Kaushik
+# 👋 Jai Kaushik
+
+**Data Analyst | Python | SQL | Power BI | Data Visualization**
 
 ---
 
-## 🔷 Power BI Project
+## 💼 Professional Summary
 
-### 📊 Sales Dashboard
-![Dashboard](dashboard.png)
-
-**Overview:**  
-Developed an interactive Power BI dashboard to analyze sales performance, customer insights, and revenue trends.
-
-**Tools:** Power BI, Data Visualization  
+Detail-oriented and analytical **Data Analyst** with hands-on experience in transforming raw data into meaningful insights through real-world projects. Skilled in **data cleaning, exploratory data analysis (EDA), dashboard development, and SQL querying** to support data-driven decision-making.
 
 ---
 
-## 🔷 MySQL Project
+## 📊 Portfolio Projects
 
-### 📚 Online Bookstore Sales & Customer Analytics
-
-**Overview:**  
-Analyzed bookstore database using SQL to identify sales trends, customer behavior, and inventory insights.
-
-**Skills Used:**  
-- Joins  
-- Aggregations  
-- Subqueries  
-
----
-
-## 🔷 Python Projects
-
-### 🎧 Spotify Data Analysis
-Analyzed music data to identify trends in audio features and popularity.
-
-### 🚗 EV Registration Analysis
-Studied electric vehicle adoption trends across states.
-
-### 🎬 Netflix Data Analysis
-Explored content distribution and growth trends.
-
-### 🍽️ Zomato Analysis
-Analyzed restaurant data for ratings and cuisines.
-
-### 💰 Loan Approval Analysis
-Identified factors influencing loan approval.
-
-### 🛒 BigBasket Analysis
-Analyzed product pricing, discounts, and ratings.
+* 🛒 **BigBasket Analysis** – Pricing strategy & category insights
+* ⚡ **EV Analysis** – Market trends & adoption patterns
+* 💰 **Loan Analysis** – Risk analysis & default prediction insights
+* 🎬 **Netflix Analysis** – Content trends & user behavior
+* 📊 **Power BI Dashboard** – Interactive business dashboards
+* 🎧 **Spotify Analysis** – Music trends & feature correlation
+* 📚 **SQL Bookstore Analysis** – Database querying & sales insights
+* 🍽️ **Zomato Analysis** – Customer preferences & restaurant analytics
 
 ---
 
-## 📌 About Me
-Aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel. Passionate about turning data into actionable insights.
+## 🛠️ Technical Skills
+
+**Languages & Tools:**
+Python, SQL, Power BI, Excel
+
+**Libraries & Technologies:**
+Pandas, NumPy, Matplotlib, Seaborn
+
+**Core Competencies:**
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization & Dashboarding
+* Business Insights & Reporting
+
+---
+
+## 📈 Key Strengths
+
+✔ Strong analytical and problem-solving skills
+✔ Ability to convert data into actionable insights
+✔ Experience working on diverse datasets across domains
+✔ Focus on business-oriented data solutions
+
+---
+
+## 🔗 Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/jai-kaushik-558089310
+* 💻 GitHub: https://github.com/jai25dec
+
+---
+
+## 📌 Note
+
+I am actively seeking opportunities in **Data Analytics / Business Intelligence**, where I can contribute to data-driven decision-making and continue to grow my analytical skills.
