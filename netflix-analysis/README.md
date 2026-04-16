@@ -1,23 +1,24 @@
-# Netflix Data Analysis
+# 🎬 Netflix Data Analysis
 
-## Objective
-Analyze Netflix dataset to understand content distribution and trends.
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Streaming](https://img.shields.io/badge/Streaming-Analytics-purple)
 
-## Tools Used
-- Python (Pandas, Numpy, Matplotlib, Seaborn)
+## 📌 Overview
+Explored Netflix dataset to understand content trends.
 
-## Dataset
-Dataset contains 8K+ movies and TV shows.
+## 🎯 Objective
+- Analyze Movies vs TV Shows
+- Identify popular genres
+- Study yearly trends
 
-## Key Analysis
-- Content distribution by genre and country
-- Growth of content over years
-- Movie vs TV show comparison
+## 📊 KPIs
+- 🎥 Movies dominate over TV Shows  
+- 📈 Content growth increased after 2015  
+- 🌍 Majority content from few countries  
 
-## Key Insights
-- Majority of content is movies
-- Certain genres dominate globally
-- Content production has increased over time
+## 🛠️ Tools
+- Python, Pandas
+- Visualization libraries
 
-## Conclusion
-This project provides insights into Netflix’s content strategy and user preferences.
+## 🚀 Outcome
+Revealed content strategy trends and viewer preferences.
