@@ -1,26 +1,22 @@
-# Online Bookstore SQL Analysis
+# 📚 SQL Bookstore Analysis
 
-## Objective
-Analyze bookstore data using SQL to understand sales and customer behavior.
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Queries](https://img.shields.io/badge/Queries-Advanced-green)
 
-## Tools Used
-- MySQL
+## 📌 Overview
+Performed SQL-based analysis on bookstore database.
 
-## Database Tables
-- Customers
-- Orders
-- Books
+## 🎯 Objective
+- Extract insights using SQL queries
+- Analyze sales and customers
 
-## Key Analysis
-- Revenue calculation
-- Top-selling books
-- Customer behavior analysis
-- Monthly sales trends
+## 📊 KPIs
+- 📌 Top-selling books identified  
+- 📊 Revenue by category  
+- 📈 Customer purchase patterns  
 
-## Key Insights
-- Top customers generate most revenue
-- Certain books perform better
-- Sales show monthly patterns
+## 🛠️ Tools
+- SQL (Joins, Aggregations)
 
-## Conclusion
-This project demonstrates how SQL can be used for business analysis.
+## 🚀 Outcome
+Improved understanding of database querying for business insights.
