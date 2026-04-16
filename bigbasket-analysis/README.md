@@ -29,6 +29,3 @@ Performed exploratory data analysis on grocery data to uncover pricing patterns,
 ## 🚀 Outcome
 Improved understanding of product pricing strategy and category performance.
 
-## ▶️ Run Project
-```bash
-pip install pandas numpy matplotlib seaborn
