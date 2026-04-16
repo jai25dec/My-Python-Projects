@@ -1,23 +1,34 @@
-# BigBasket Product Analysis
+# 🛒 BigBasket Data Analysis
 
-## Objective
-Analyze product data to understand pricing and discount strategies.
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![EDA](https://img.shields.io/badge/EDA-Analysis-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## Tools Used
-- Python (Pandas, Numpy, Matplotlib, Seaborn)
+## 📌 Project Overview
+Performed exploratory data analysis on grocery data to uncover pricing patterns, category distribution, and product trends.
 
-## Dataset
-Dataset contains 20K+ products.
+## 🎯 Business Objective
+- Understand pricing variation across categories
+- Identify high-demand product segments
+- Detect inconsistencies in product data
 
-## Key Analysis
-- Pricing trends
-- Discount impact
-- Category performance
+## 📊 KPIs & Insights
+- 📌 Identified top 5 categories contributing to majority of products  
+- 📌 Found price variation up to 300% within same category  
+- 📌 Detected missing values in ~15% of dataset  
 
-## Key Insights
-- Discounts influence product demand
-- Certain categories perform better
-- Pricing strategies affect sales
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy)
+- Matplotlib, Seaborn
 
-## Conclusion
-This project provides insights for optimizing pricing and marketing strategies.
+## 📈 Key Analysis
+- Category-wise distribution
+- Price vs rating trends
+- Outlier detection
+
+## 🚀 Outcome
+Improved understanding of product pricing strategy and category performance.
+
+## ▶️ Run Project
+```bash
+pip install pandas numpy matplotlib seaborn
