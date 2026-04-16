@@ -1,24 +1,22 @@
-# Zomato Restaurant Analysis
+# 🍽️ Zomato Data Analysis
 
-## Objective
-Analyze restaurant data to identify trends in ratings, pricing, and cuisines.
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Food](https://img.shields.io/badge/Food-Analytics-red)
 
-## Tools Used
-- Python (Pandas, Numpy, Seaborn, Matplotlib)
+## 📌 Overview
+Analyzed restaurant dataset to understand customer preferences.
 
-## Dataset
-Dataset contains 200K+ restaurant records.
+## 🎯 Objective
+- Study ratings & pricing
+- Identify popular cuisines
 
-## Key Analysis
-- Ratings distribution
-- Popular cuisines
-- Price range trends
-- City-wise analysis
+## 📊 KPIs
+- ⭐ High-rated restaurants cluster in specific price ranges  
+- 🍜 Popular cuisines dominate listings  
+- 📍 Location impacts ratings  
 
-## Key Insights
-- Certain cuisines dominate specific regions
-- Higher-rated restaurants attract more customers
-- Pricing impacts customer preferences
+## 🛠️ Tools
+- Pandas, Visualization
 
-## Conclusion
-This analysis helps understand customer behavior and improve restaurant strategies.
+## 🚀 Outcome
+Provided insights into restaurant performance and customer behavior.
