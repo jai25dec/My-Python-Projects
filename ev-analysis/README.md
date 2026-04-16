@@ -1,23 +1,27 @@
-# Electric Vehicle Analysis
+# ⚡ 2. EV Analysis – README.md
 
-## Objective
-Analyze EV registration data to study adoption trends.
+```markdown
+# ⚡ Electric Vehicle Data Analysis
 
-## Tools Used
-- Python (Pandas, Numpy, Matplotlib, Seaborn)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Data](https://img.shields.io/badge/Data-Analytics-orange)
 
-## Dataset
-Dataset contains 5K+ records across multiple states.
+## 📌 Overview
+Analyzed EV dataset to identify growth trends and adoption patterns.
 
-## Key Analysis
-- EV growth trends over time
-- State-wise adoption
-- Category distribution
+## 🎯 Objective
+- Study EV adoption trends
+- Analyze vehicle range and type
+- Identify high-growth regions
 
-## Key Insights
-- EV adoption is increasing steadily
-- Certain states lead in EV adoption
-- Policy and awareness impact growth
+## 📊 KPIs
+- 📈 EV adoption increased significantly over years  
+- 📌 Majority EVs fall under specific vehicle type categories  
+- 📊 Range distribution shows clustering in mid-range vehicles  
 
-## Conclusion
-This project highlights key factors driving EV adoption and future trends.
+## 🛠️ Tools
+- Python, Pandas
+- Data Visualization
+
+## 🚀 Outcome
+Provided insights into EV market trends and future growth opportunities.
